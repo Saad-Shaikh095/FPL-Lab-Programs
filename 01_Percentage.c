@@ -35,3 +35,11 @@ int main() {
     return 0;
 
 }
+
+/*
+Output:
+
+Enter you Percentage: 91.55
+Distinction
+
+*/

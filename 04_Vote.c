@@ -23,3 +23,11 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+
+Enter Your Age: 19
+You are Eligible to Vote
+
+*/

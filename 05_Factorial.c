@@ -19,3 +19,11 @@ int main() {
     return 0;
 
 }
+
+/*
+Output:
+
+Enter a Number: 7
+Factorial of this Number is: 5040
+
+*/
